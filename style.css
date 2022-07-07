@@ -1,0 +1,118 @@
+body {
+    font-family: 'Mukta', sans-serif;
+    margin: 0;
+}
+
+.banner {
+    text-align: center;
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 60px;
+    color: white;
+    font-size: 30px;
+    background-image: url(donation13.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 599px;
+}
+
+.button {
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    background-color: rgb(58, 143, 36);
+    padding: 10px 20px;
+    text-align: center;
+
+}
+
+.new {
+    color: rgb(58, 143, 36);
+    text-align: center;
+    padding-top: 50px;
+}
+
+.text {
+    text-align: center;
+    color: (black);
+}
+
+.flex-container {
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.flexbox {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(231, 231, 231);
+    color: rgb(105, 102, 102);
+    text-align: center;
+    line-height: 200px;
+    margin-left: 20px;
+    font-size: 35px;
+    font-weight: bold;
+    border-radius: 5px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+
+.flexbox-border {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(188, 240, 175);
+    color: rgb(58, 143, 36);
+    border: 3px solid rgb(58, 143, 36);
+    text-align: center;
+    line-height: 200px;
+    margin-left: 20px;
+    font-size: 35px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.place {
+    border: none;
+    letter-spacing: 3px;
+    margin-top: 50px;
+    text-align: center;
+
+}
+
+.donate plan {
+    text-align: center;
+}
+
+.value {
+    text-align: center;
+}
+
+.property {
+    display: flex;
+    width: 100%;
+}
+
+.flexbox1 {
+    width: 35%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 15px;
+    border-radius: 10%;
+    background-color: rgb(188, 240, 175);
+    box-shadow: 10px 10px 20px gray;
+}
+
+.key {
+    text-align: center;
+}
+
+.foot {
+    text-align: center;
+    background-color: rgb(58, 143, 36);
+    ;
+    color: white;
+    height: 150px;
+
+}
